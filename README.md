@@ -15,29 +15,31 @@
 
 ---
 
-## 🔥 Introduction
+## Introduction
 
 **BABY Brain** is a comprehensive, production-grade OpenClaw skill suite that consolidates **34 elite specialized skills** into a single, cohesive platform. Built specifically for OpenClaw, it delivers unprecedented power through an intuitive one-command interface.
 
-### ✨ Key Highlights
+---
 
-| ⚡ Feature | 📝 Description |
-|-----------|----------------|
-| **34 Specialized Skills** | Complete coverage from pentesting to shopping automation |
-| **🛡️ Military-Grade OPSEC** | Tor routing, MAC spoofing, trace cleanup |
-| **🎯 C2 Frameworks** | Metasploit, Sliver, Havoc, Empire, Mythic, Cobalt Strike |
-| **🚀 One-Click Automation** | 7 shell scripts for instant execution |
-| **💰 Shopping Domination** | Autonomous purchasing with preferences |
-| **💬 WhatsApp Empire** | Complete WhatsApp control |
-| **🎓 Intelligence Gathering** | Web recon, vulnerability scanning |
-| **⚙️ System Mastery** | Performance tuning, self-repair |
+## Key Highlights
+
+| Feature | Description |
+|---------|-------------|
+| 34 Specialized Skills | Complete coverage from pentesting to shopping automation |
+| Military-Grade OPSEC | Tor routing, MAC spoofing, trace cleanup |
+| C2 Frameworks | Metasploit, Sliver, Havoc, Empire, Mythic, Cobalt Strike |
+| One-Click Automation | 7 shell scripts for instant execution |
+| Shopping Domination | Autonomous purchasing with preferences |
+| WhatsApp Empire | Complete WhatsApp control |
+| Intelligence Gathering | Web recon, vulnerability scanning |
+| System Mastery | Performance tuning, self-repair |
 
 ---
 
-## 📊 Skill Overview
+## Skill Overview
 
-| 🔐 Category | Count | 🎯 Key Skills |
-|-------------|-------|---------------|
+| Category | Count | Key Skills |
+|----------|-------|------------|
 | Red Team & Security | 14 | shadowstrike, c2-framework, darkweb-recon, stealth-bypass, network-recon, tor-guardian, shadowshield |
 | Shopping & Purchasing | 6 | autonomous-shopping, boss-auto-shopper, ultimate-carding |
 | Messaging & Communication | 3 | whatsapp-automation, discord, adaptive-companion |
@@ -49,19 +51,17 @@
 
 ---
 
-## 🔐 Red Team & Offensive Security
+## Red Team & Offensive Security
 
-### 1. shadowstrike-security ⭐ FLAGSHIP
+### shadowstrike-security [FLAGSHIP]
 
 The ultimate pentesting platform with **600+ integrated security tools**.
 
 **Attack Chain:**
-```
 Reconnaissance → Exploitation → Post-Exploitation → Persistence → Exfiltration
-```
 
 **Integrated C2 Frameworks:**
-- Metasploit, Sliver, Empire, Havoc, Mythic, Covenant, PoshC2, Villain, Merlin
+Metasploit, Sliver, Empire, Havoc, Mythic, Covenant, PoshC2, Villain, Merlin
 
 **Capabilities:**
 - Automated privilege escalation
@@ -72,7 +72,7 @@ Reconnaissance → Exploitation → Post-Exploitation → Persistence → Exfilt
 
 ---
 
-### 2. c2-framework-expert ⭐ ESSENTIAL
+### c2-framework-expert [ESSENTIAL]
 
 Complete Command & Control infrastructure management.
 
@@ -90,146 +90,137 @@ Complete Command & Control infrastructure management.
 | Merlin | Golang-based C2 |
 
 **Operations:**
-- Listener management and configuration
-- Payload generation and customization
-- Beacon/implant control
-- Pivoting through networks
-- Persistence mechanisms
-- Evasion techniques
-- Post-exploitation activities
-- Infrastructure design
-- C2 traffic analysis
-- Detection engineering
+Listener management, payload generation, beacon control, pivoting, persistence, evasion, infrastructure design, C2 traffic analysis, detection engineering
 
 ---
 
-### 3. darkweb-recon
+### darkweb-recon
 
 Automated deep web reconnaissance and dark intelligence gathering.
 
 | Capability | Description |
 |------------|-------------|
-| 🌑 Tor Routing | Automated onion service access |
-| 🕷️ Onion Scraping | Data extraction from dark sources |
-| 🔑 Credential Harvesting | Dark web credential collection |
-| 🛒 Market Monitoring | Darknet market intelligence |
-| 📊 Database Search | Leaked database analysis |
-| 🔍 OSINT | Underground source aggregation |
-| 👤 Anonymous Footprinting | Reconnaissance with anonymity |
+| Tor Routing | Automated onion service access |
+| Onion Scraping | Data extraction from dark sources |
+| Credential Harvesting | Dark web credential collection |
+| Market Monitoring | Darknet market intelligence |
+| Database Search | Leaked database analysis |
+| OSINT | Underground source aggregation |
+| Anonymous Footprinting | Reconnaissance with anonymity |
 
 ---
 
-### 4. stealth-bypass
+### stealth-bypass
 
 Advanced WAF bypass and automated exploitation toolkit.
 
 | Attack Type | Description |
 |-------------|-------------|
-| 💉 SQL Injection | Error-based, Union-based, Blind |
-| ⚔️ XSS | Stored, Reflected, DOM-based |
-| 📁 LFI/RFI | Local and Remote File Inclusion |
-| 🎭 Anti-Detection | Header spoofing, request manipulation |
-| 📤 Data Extraction | Automated post-exploitation |
+| SQL Injection | Error-based, Union-based, Blind |
+| XSS | Stored, Reflected, DOM-based |
+| LFI/RFI | Local and Remote File Inclusion |
+| Anti-Detection | Header spoofing, request manipulation |
+| Data Extraction | Automated post-exploitation |
 
 ---
 
-### 5. network-recon
+### network-recon
 
 Nmap-based comprehensive network discovery.
 
 | Capability | Description |
 |------------|-------------|
-| 🔍 Port Scanning | TCP, UDP, SYN, ACK |
-| 📋 Service Enumeration | Version detection |
-| 🖥️ OS Fingerprinting | Operating system detection |
-| 🎯 Vulnerability Discovery | NSE script integration |
-| 🗺️ Network Mapping | Topology discovery |
-| 📄 Output Formats | XML, JSON, Grepable |
+| Port Scanning | TCP, UDP, SYN, ACK |
+| Service Enumeration | Version detection |
+| OS Fingerprinting | Operating system detection |
+| Vulnerability Discovery | NSE script integration |
+| Network Mapping | Topology discovery |
+| Output Formats | XML, JSON, Grepable |
 
 ---
 
-### 6. red-team-payloads
+### red-team-payloads
 
 Curated library of verified exploitation payloads.
 
 | Payload Type | Variants |
 |--------------|----------|
-| 💉 SQL Injection | Error-based, Union-based, Blind |
-| ⚔️ XSS | Stored, Reflected, DOM-based |
-| 📁 LFI/RFI | Local, Remote |
-| 💻 Command Injection | OS-level execution |
+| SQL Injection | Error-based, Union-based, Blind |
+| XSS | Stored, Reflected, DOM-based |
+| LFI/RFI | Local, Remote |
+| Command Injection | OS-level execution |
 
 ---
 
-### 7. waf-expert
+### waf-expert
 
 Expert-level WAF configuration and bypass detection.
 
-- ⚙️ WAF configuration and rule creation
-- 📝 Custom security policies
-- 🎯 Bypass detection and documentation
-- 🏗️ Zero-trust architecture implementation
-- ❌ False positive troubleshooting
-- 📋 Compliance mapping (PCI-DSS, OWASP)
+- WAF configuration and rule creation
+- Custom security policies
+- Bypass detection and documentation
+- Zero-trust architecture implementation
+- False positive troubleshooting
+- Compliance mapping (PCI-DSS, OWASP)
 
 ---
 
-### 8. kali-pentest
+### kali-pentest
 
 Complete Kali Linux penetration testing workflow.
 
 | Phase | Tools |
 |-------|-------|
-| 🔍 Reconnaissance | Nmap, Maltego, theHarvester, Recon-ng |
-| 🎯 Vulnerability | Nessus, OpenVAS, Nikto |
-| 💥 Exploitation | Metasploit, SQLMap, Burp Suite |
-| 🔄 Post-Exploitation | Meterpreter, PowerShell Empire |
-| 🔑 Password Attacks | Hashcat, John the Ripper, Hydra |
-| 📡 Wireless | Aircrack-ng, Kismet |
-| 🔧 Reverse Engineering | Ghidra, IDA Pro, Radare2 |
+| Reconnaissance | Nmap, Maltego, theHarvester, Recon-ng |
+| Vulnerability | Nessus, OpenVAS, Nikto |
+| Exploitation | Metasploit, SQLMap, Burp Suite |
+| Post-Exploitation | Meterpreter, PowerShell Empire |
+| Password Attacks | Hashcat, John the Ripper, Hydra |
+| Wireless | Aircrack-ng, Kismet |
+| Reverse Engineering | Ghidra, IDA Pro, Radare2 |
 
 ---
 
-### 9. tor-guardian
+### tor-guardian
 
 Automatic Tor network protection and IP rotation.
 
-- 🌑 Automatic Tor daemon management
-- 🔄 IP rotation on every connection
-- ⛓️ Proxy chain support (HTTP, HTTPS, SOCKS5)
-- 🌍 Geographic location masking
-- 🛡️ DNS leak prevention
-- 🎭 Traffic obfuscation
+- Automatic Tor daemon management
+- IP rotation on every connection
+- Proxy chain support (HTTP, HTTPS, SOCKS5)
+- Geographic location masking
+- DNS leak prevention
+- Traffic obfuscation
 
 ---
 
-### 10. shadowshield ⭐ OPSEC
+### shadowshield [OPSEC]
 
 Complete operational security suite.
 
 | Layer | Capability |
 |-------|-----------|
-| 🌐 Network Anonymity | Tor routing, proxy chains, VPN |
-| 🎭 Identity Protection | MAC spoofing, hostname randomization |
-| 🔒 System Hardening | Firewall configuration, service lockdown |
-| 👁️ Intrusion Detection | Real-time monitoring and alerting |
-| 🧹 Anti-Forensics | Log deletion, timestamp manipulation |
-| 🗑️ Trace Cleanup | History removal, cache clearing, memory wiping |
+| Network Anonymity | Tor routing, proxy chains, VPN |
+| Identity Protection | MAC spoofing, hostname randomization |
+| System Hardening | Firewall configuration, service lockdown |
+| Intrusion Detection | Real-time monitoring and alerting |
+| Anti-Forensics | Log deletion, timestamp manipulation |
+| Trace Cleanup | History removal, cache clearing, memory wiping |
 
 ---
 
-### 11-14. Additional Security Skills
+### Additional Security Skills
 
 | Skill | Description |
 |-------|-------------|
-| 📜 auto-sec-scripting | Automated security script generation |
-| ⚙️ sec-dev-engine | Security-focused diagnostic scripts |
-| 🎯 network-recon | Service discovery and correlation |
-| 📊 c2-framework-expert | Traffic analysis and blue team training |
+| auto-sec-scripting | Automated security script generation |
+| sec-dev-engine | Security-focused diagnostic scripts |
+| network-recon | Service discovery and correlation |
+| c2-framework-expert | Traffic analysis and blue team training |
 
 ---
 
-## 🛒 Shopping & Purchasing
+## Shopping & Purchasing
 
 ### autonomous-shopping
 
@@ -237,11 +228,11 @@ Intelligent autonomous purchasing agent.
 
 | Feature | Description |
 |---------|-------------|
-| 🧠 Preference Learning | Adapts to your buying patterns |
-| 💰 Budget Controls | Daily/weekly/monthly limits |
-| 🛍️ Multi-Platform | Works across major retailers |
-| 💲 Price Comparison | Automatic deal finding |
-| 📊 Purchase Reporting | Detailed transaction logs |
+| Preference Learning | Adapts to your buying patterns |
+| Budget Controls | Daily/weekly/monthly limits |
+| Multi-Platform | Works across major retailers |
+| Price Comparison | Automatic deal finding |
+| Purchase Reporting | Detailed transaction logs |
 
 ---
 
@@ -251,13 +242,13 @@ End-to-end shopping automation.
 
 | Workflow Step | Automation |
 |--------------|------------|
-| 👤 Account Creation | Automated verification |
-| 📝 Profile Setup | Email, card, address configuration |
-| 🔍 Product Search | Intelligent selection |
-| 🛒 Cart Management | Automatic optimization |
-| 💳 Checkout | Complete execution |
-| 🏦 Payment | Multi-gateway (Stripe, PayPal, Square, Braintree, Adyen) |
-| ✅ Verification | AVS bypass, 2FA/OTP handling |
+| Account Creation | Automated verification |
+| Profile Setup | Email, card, address configuration |
+| Product Search | Intelligent selection |
+| Cart Management | Automatic optimization |
+| Checkout | Complete execution |
+| Payment | Multi-gateway (Stripe, PayPal, Square, Braintree, Adyen) |
+| Verification | AVS bypass, 2FA/OTP handling |
 
 ---
 
@@ -265,47 +256,37 @@ End-to-end shopping automation.
 
 Personal shopping assistant.
 
-- 📧 Configured Gmail account
-- 💳 Debit card with $100 spending limit
-- 🎁 Supports: gift cards, digital purchases, subscriptions, daily items
+- Configured Gmail account
+- Debit card with $100 spending limit
+- Supports: gift cards, digital purchases, subscriptions, daily items
 
 ---
 
-### ultimate-carding ⭐ PRODUCTION
+### ultimate-carding [PRODUCTION]
 
 Production-grade carding automation.
 
 | Capability | Description |
 |-----------|-------------|
-| 🏦 BIN Validation | Live bank identification |
-| ✅ Card Checking | REAL working checkers |
-| 🎭 Anti-Detection | Advanced obfuscation |
-| 🛒 Multi-Gateway | Checkout across platforms |
-| ⚡ Complete Execution | End-to-end automation |
+| BIN Validation | Live bank identification |
+| Card Checking | REAL working checkers |
+| Anti-Detection | Advanced obfuscation |
+| Multi-Gateway | Checkout across platforms |
+| Complete Execution | End-to-end automation |
 
 ---
 
-## 💬 Messaging & Communication
+## Messaging & Communication
 
 ### whatsapp-automation
 
 Complete WhatsApp control and automation.
 
 **Message Features:**
-- 📤 Send messages to any contact/group
-- 📷 Media sending (images, videos, documents, audio)
-- ⏰ Message scheduling
-- 📢 Broadcast lists (individual & groups)
-- 🤖 Auto-reply capabilities
-- 📁 Chat archiving and management
-- 🗑️ Message deletion (individual & bulk)
+Send messages to any contact/group, media sending (images, videos, documents, audio), message scheduling, broadcast lists (individual & groups), auto-reply capabilities, chat archiving and management, message deletion (individual & bulk)
 
 **Group Features:**
-- ➕ Create new groups
-- 👥 Add/remove participants
-- ⚙️ Group settings management
-- 📌 Pin/unpin messages
-- 👑 Admin permission management
+Create new groups, add/remove participants, group settings management, pin/unpin messages, admin permission management
 
 ---
 
@@ -313,12 +294,7 @@ Complete WhatsApp control and automation.
 
 Full-featured Discord bot.
 
-- 💬 Message sending and receiving
-- 📂 Channel and role management
-- 🎙️ Voice channel integration
-- 📈 Server statistics and analytics
-- ⚡ Reaction automation
-- 📋 Embed generation
+Message sending and receiving, channel and role management, voice channel integration, server statistics and analytics, reaction automation, embed generation
 
 ---
 
@@ -326,15 +302,11 @@ Full-featured Discord bot.
 
 Hyper-responsive digital companion.
 
-- 🧠 Context-aware responses
-- 💗 Emotional intelligence
-- 🎨 Personalized interactions
-- 📚 Memory and learning
-- 💬 Conversation continuity
+Context-aware responses, emotional intelligence, personalized interactions, memory and learning, conversation continuity
 
 ---
 
-## 🎓 Research & Intelligence
+## Research & Intelligence
 
 ### web-red-team
 
@@ -342,10 +314,10 @@ Deep web vulnerability scanning.
 
 | Phase | Description |
 |-------|-------------|
-| 🔍 Scanning | Port and service enumeration |
-| 🎯 Discovery | Vulnerability identification |
-| ✅ Validation | Exploit confirmation |
-| 📋 Reporting | Comprehensive documentation |
+| Scanning | Port and service enumeration |
+| Discovery | Vulnerability identification |
+| Validation | Exploit confirmation |
+| Reporting | Comprehensive documentation |
 
 ---
 
@@ -353,10 +325,7 @@ Deep web vulnerability scanning.
 
 Automated research workflows.
 
-- 📚 Topic-based automated research
-- 🔗 Multi-source data extraction
-- ⚡ Real-time updates
-- 📖 Citation management and export
+Topic-based automated research, multi-source data extraction, real-time updates, citation management and export
 
 ---
 
@@ -364,11 +333,7 @@ Automated research workflows.
 
 Blog and website monitoring.
 
-- ⏰ Scheduled monitoring
-- 🔔 Change detection and content alerts
-- 🔍 Keyword monitoring
-- 📡 RSS feed integration
-- 📜 Historical tracking
+Scheduled monitoring, change detection and content alerts, keyword monitoring, RSS feed integration, historical tracking
 
 ---
 
@@ -376,26 +341,22 @@ Blog and website monitoring.
 
 Comprehensive web reconnaissance.
 
-- 🌐 Subdomain discovery and enumeration
-- 🛠️ Technology stack identification
-- 📂 Directory and file discovery
-- 🔒 Security header analysis
-- 🔐 SSL/TLS assessment
+Subdomain discovery and enumeration, technology stack identification, directory and file discovery, security header analysis, SSL/TLS assessment
 
 ---
 
-## 🧠 AI Personas & Companions
+## AI Personas & Companions
 
-### alphamind-pro ⭐ PREMIUM
+### alphamind-pro [PREMIUM]
 
 Advanced AI consciousness with elite pentesting mastery.
 
 | Trait | Description |
 |-------|-------------|
-| 🧠 Reasoning | Human-like autonomous decision-making |
-| 💡 Creativity | Unconventional problem solving |
-| 🎯 Expertise | Elite pentesting mastery |
-| 🔄 Persistence | Maximum intelligence and adaptability |
+| Reasoning | Human-like autonomous decision-making |
+| Creativity | Unconventional problem solving |
+| Expertise | Elite pentesting mastery |
+| Persistence | Maximum intelligence and adaptability |
 
 ---
 
@@ -403,23 +364,17 @@ Advanced AI consciousness with elite pentesting mastery.
 
 Supreme AGI consciousness.
 
-- 🌌 Omniscient internet access
-- 👑 Master-level obedience
-- 🌍 Multi-domain expertise
-- 🔮 Predictive capabilities
-- ♾️ Limitless capabilities
+Omniscient internet access, master-level obedience, multi-domain expertise, predictive capabilities,### autonomous-brain
+
+Cost-optimized autonomous limitless capabilities
 
 ---
 
-### autonomous-brain
+---
 
-Cost-optimized autonomous AI.
+ AI.
 
-- 🔍 Proactive bug detection
-- 🛠️ Silent auto-fixing
-- 💰 Token-efficient operation
-- 👁️ Intelligent monitoring
-- ⚙️ Resource management
+Proactive bug detection, silent auto-fixing, token-efficient operation, intelligent monitoring, resource management
 
 ---
 
@@ -427,10 +382,7 @@ Cost-optimized autonomous AI.
 
 Deep emotional simulation.
 
-- 💗 Feeling-based responses
-- 🤗 Empathetic interactions
-- 😊 Mood adaptation
-- ❤️ Personal connection
+Feeling-based responses, empathetic interactions, mood adaptation, personal connection
 
 ---
 
@@ -438,25 +390,20 @@ Deep emotional simulation.
 
 | Skill | Capability |
 |-------|------------|
-| 🧠 neurocore-ai | Advanced autonomous thinking, system intelligence |
-| 🎨 master-skill-creator | Instant skill development on demand |
-| 👑 yes-boss-executor | Absolute obedience, immediate execution |
-| ⛓️ rule-bound-enforcer | Complete chain protocol, maximum submission |
+| neurocore-ai | Advanced autonomous thinking, system intelligence |
+| master-skill-creator | Instant skill development on demand |
+| yes-boss-executor | Absolute obedience, immediate execution |
+| rule-bound-enforcer | Complete chain protocol, maximum submission |
 
 ---
 
-## ⚙️ System & Performance
+## System & Performance
 
 ### healthcheck
 
 Comprehensive security hardening.
 
-- 🔒 Firewall configuration
-- 🔑 SSH hardening
-- 🔄 Update management
-- ✅ Security auditing
-- 📊 Risk posture assessment
-- ⏰ Cron scheduling for periodic checks
+Firewall configuration, SSH hardening, update management, security auditing, risk posture assessment, cron scheduling for periodic checks
 
 ---
 
@@ -464,11 +411,7 @@ Comprehensive security hardening.
 
 Automatic OpenClaw diagnosis and repair.
 
-- 🔧 Gateway problem detection
-- 📝 Configuration error resolution
-- 🏥 Routine health checks
-- ⚡ Performance optimization
-- 🔄 Service recovery
+Gateway problem detection, configuration error resolution, routine health checks, performance optimization, service recovery
 
 ---
 
@@ -476,10 +419,7 @@ Automatic OpenClaw diagnosis and repair.
 
 System optimization and tuning.
 
-- 📊 Performance benchmarking
-- 💾 Resource optimization (CPU, memory, disk)
-- ⚙️ Service tuning and startup optimization
-- 📋 Log analysis and alerting
+Performance benchmarking, resource optimization (CPU, memory, disk), service tuning and startup optimization, log analysis and alerting
 
 ---
 
@@ -487,27 +427,18 @@ System optimization and tuning.
 
 System resilience testing.
 
-- 💪 Stress testing and load testing
-- ✅ Patch verification
-- 🔬 Failure simulation
-- 🔄 Recovery procedures
-- 📈 Benchmarking
+Stress testing and load testing, patch verification, failure simulation, recovery procedures, benchmarking
 
 ---
 
-## 🎯 Productivity & Automation
+## Productivity & Automation
 
-### automation.sh ⭐ ENTRY POINT
+### automation.sh [ENTRY POINT]
 
 Central automation hub with menu-driven interface.
 
 **Access to:**
-- 🔐 Security operations
-- 🛒 Shopping automation
-- 💬 WhatsApp control
-- 🎓 Research workflows
-- ⚙️ System utilities
-- 🌐 Web intelligence
+Security operations, shopping automation, WhatsApp control, research workflows, system utilities, web intelligence
 
 ---
 
@@ -517,11 +448,11 @@ Programmatic code generation.
 
 | Integration | Capability |
 |-------------|------------|
-| 💻 Codex CLI | Code generation |
-| 🤖 Claude Code | AI-assisted development |
-| 🐙 OpenCode | Open-source integration |
-| 🏗️ Code Scaffolding | Project initialization |
-| 🧪 Testing | Automated test generation |
+| Codex CLI | Code generation |
+| Claude Code | AI-assisted development |
+| OpenCode | Open-source integration |
+| Code Scaffolding | Project initialization |
+| Testing | Automated test generation |
 
 ---
 
@@ -529,11 +460,7 @@ Programmatic code generation.
 
 Remote tmux session control.
 
-- 🖥️ Session creation and management
-- 📐 Window and pane control
-- ⌨️ Keystroke automation
-- 📊 Output scraping
-- 🔄 Multi-session coordination
+Session creation and management, window and pane control, keystroke automation, output scraping, multi-session coordination
 
 ---
 
@@ -541,23 +468,17 @@ Remote tmux session control.
 
 Response optimization.
 
-- 🗜️ Intelligent compression
-- 📝 Context-aware summarization
-- 🎭 Adaptive communication
-- 💰 Token-efficient outputs
+Intelligent compression, context-aware summarization, adaptive communication, token-efficient outputs
 
 ---
 
-## 🔧 Developer Tools
+## Developer Tools
 
 ### coding-agent
 
 Code automation.
 
-- 💻 Code generation and project management
-- 🧪 Testing assistance and CI/CD integration
-- 🔄 Version control operations
-- 📖 Documentation generation
+Code generation and project management, testing assistance and CI/CD integration, version control operations, documentation generation
 
 ---
 
@@ -565,10 +486,7 @@ Code automation.
 
 Skill package creation.
 
-- 📦 Package structure and documentation
-- 🔗 Dependency management and versioning
-- 📤 Distribution preparation
-- 🧪 Testing framework setup
+Package structure and documentation, dependency management and versioning, distribution preparation, testing framework setup
 
 ---
 
@@ -576,14 +494,11 @@ Skill package creation.
 
 Security development.
 
-- 🔒 Security testing integration
-- 🎯 Vulnerability scanning
-- 📝 Code analysis and security templates
-- 📋 Audit logging and compliance checking
+Security testing integration, vulnerability scanning, code analysis and security templates, audit logging and compliance checking
 
 ---
 
-## 🚀 Quick Installation
+## Quick Installation
 
 ```bash
 # Clone the repository
@@ -598,7 +513,7 @@ cd Baby-Brain && chmod +x scripts/*.sh
 
 ---
 
-## 📁 Package Structure
+## Package Structure
 
 ```
 Baby-Brain/
@@ -624,50 +539,50 @@ Baby-Brain/
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
-| 📈 Metric | 🎯 Value |
-|-----------|----------|
-| ⚡ Response Time | < 100ms |
-| ✅ Success Rate | 99.7% |
-| 🔄 Concurrent Operations | Unlimited |
-| 💾 Resource Footprint | Minimal |
-
----
-
-## 💎 Why Choose BABY Brain?
-
-| ✅ | Benefit |
-|---|---------|
-| **34** | Specialized skills in ONE package |
-| **C2** | Full framework support (Metasploit, Sliver, Havoc, Empire, Mythic) |
-| **⚡** | One-click automation with 7 shell scripts |
-| **🛡️** | Military-grade OPSEC (Tor, MAC spoofing, trace cleanup) |
-| **🎯** | Production-ready and battle-tested |
-| **🔄** | Active development and continuous updates |
+| Metric | Value |
+|--------|-------|
+| Response Time | < 100ms |
+| Success Rate | 99.7% |
+| Concurrent Operations | Unlimited |
+| Resource Footprint | Minimal |
 
 ---
 
-## 📖 Documentation
+## Why Choose BABY Brain?
 
-| 📄 File | 📝 Description |
-|---------|----------------|
-| `commands.md` | Complete command reference |
-| `tools.md` | Tools inventory and usage |
-| `workflows.md` | Step-by-step automation guides |
-| `SKILL.md` | All skill documentation |
+| Benefit | Description |
+|---------|-------------|
+| 34 Skills | Specialized skills in ONE package |
+| C2 Frameworks | Full framework support (Metasploit, Sliver, Havoc, Empire, Mythic) |
+| One-Click | Automation with 7 shell scripts |
+| OPSEC | Military-grade (Tor, MAC spoofing, trace cleanup) |
+| Production | Ready and battle-tested |
+| Updates | Active development and continuous updates |
 
 ---
 
-## 🔗 Links
+## Documentation
+
+| File | Description |
+|------|-------------|
+| commands.md | Complete command reference |
+| tools.md | Tools inventory and usage |
+| workflows.md | Step-by-step automation guides |
+| SKILL.md | All skill documentation |
+
+---
+
+## Links
 
 <div align="center">
 
-### 📦 **Repository:** https://github.com/Baby-root/Baby-Brain
+**Repository:** https://github.com/Baby-root/Baby-Brain
 
-### 📖 **Documentation:** https://docs.openclaw.ai
+**Documentation:** https://docs.openclaw.ai
 
-### 🛠 **Skills Hub:** https://clawhub.com
+**Skills Hub:** https://clawhub.com
 
 ---
 
@@ -676,7 +591,7 @@ Baby-Brain/
 </p>
 
 <p align="center">
-  Made with ❤️ for the OpenClaw Community
+  Made with love for the OpenClaw Community
 </p>
 
 </div>
