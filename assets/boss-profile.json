@@ -1,0 +1,77 @@
+{
+  "profile": {
+    "name": "Boss",
+    "email": "boss@gmail.com",
+    "phone": "+1234567890",
+    "timezone": "America/New_York",
+    "language": "en"
+  },
+  "preferences": {
+    "shopping": {
+      "max_limit": 100,
+      "currency": "USD",
+      "preferred_platforms": [
+        "amazon",
+        "steam",
+        "apple",
+        "netflix",
+        "spotify"
+      ],
+      "gift_card_defaults": [10, 25, 50],
+      "auto_confirm": false,
+      "require_otp": true
+    },
+    "communication": {
+      "language": "en",
+      "auto_respond": false,
+      "notification_sound": true,
+      "format": "formal"
+    },
+    "security": {
+      "anonymity_level": "high",
+      "tor_required": false,
+      "log_operations": true
+    },
+    "automation": {
+      "dry_run_default": true,
+      "save_outputs": true,
+      "output_directory": "~/.baby-brain/outputs"
+    }
+  },
+  "payment": {
+    "type": "debit",
+    "currency": "USD",
+    "cards": [
+      {
+        "last4": "1234",
+        "type": "Visa",
+        "expiry": "12/25",
+        "name": "Boss Card"
+      }
+    ],
+    "billing_address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "US"
+    }
+  },
+  "shipping_address": {
+    "street": "123 Main Street",
+    "city": "New York",
+    "state": "NY", 
+    "zip": "10001",
+    "country": "US"
+  },
+  "notifications": {
+    "email": true,
+    "whatsapp": false,
+    "webhook": null
+  },
+  "api_keys": {
+    "clashub": "",
+    "shodan": "",
+    "virustotal": ""
+  }
+}
