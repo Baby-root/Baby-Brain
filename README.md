@@ -1,37 +1,12 @@
-<div align="center">
+# 🤖 BABY Brain | Ultimate OpenClaw Skill Suite
 
-<!-- BABY Brain Logo -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BABY%20Brain&fontSize=90&animation=fadeIn&fontAlignY=35&desc=The%20Ultimate%20OpenClaw%20Skill%20Suite&descSize=24&descAlignY=55&descColor=ffffff" width="100%" />
-</p>
+## The Most Comprehensive, Production-Grade AI Automation Platform
 
-<h3 align="center">The Most Comprehensive, Production-Grade AI Automation Platform</h3>
-
-<p align="center">
-  <a href="https://docs.openclaw.ai">
-    <img src="https://img.shields.io/badge/OpenClaw-Enabled-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0iI2ZmZiIgc3Ryb2tlPSIjMzMzIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=" />
-  </a>
-  <a href="https://github.com/Baby-root/Baby-Brain/stargazers">
-    <img src="https://img.shields.io/github/stars/Baby-root/Baby-Brain?style=for-the-badge&color=yellow" />
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Skills-34-blue?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Red_Team-14_Skills-red?style=flat-square&logo=shield" />
-  <img src="https://img.shields.io/badge/Shopping-6_Skills-green?style=flat-square&logo=shopping" />
-  <img src="https://img.shields.io/badge/Messaging-3_Skills-blue?style=flat-square&logo=message" />
-  <img src="https://img.shields.io/badge/AI_Personas-8_Skills-purple?style=flat-square&logo=brain" />
-  <img src="https://img.shields.io/badge/System-5_Skills-orange?style=flat-square&logo=gear" />
-</p>
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Enabled-blue)](https://docs.openclaw.ai)
+[![GitHub stars](https://img.shields.io/github/stars/Baby-root/Baby-Brain?style=flat-square&color=yellow)](https://github.com/Baby-root/Baby-Brain/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0.0-purple)]()
+[![Skills](https://img.shields.io/badge/Skills-34-blue)]()
 
 ---
 
@@ -41,45 +16,31 @@
 
 ### Key Highlights
 
-| ✨ Feature | 📝 Description |
-|-----------|----------------|
-| ⚡ **34 Specialized Skills** | Complete coverage from pentesting to shopping automation |
-| 🛡️ **Military-Grade OPSEC** | Tor routing, MAC spoofing, trace cleanup |
-| 🎯 **C2 Framework Integration** | Metasploit, Sliver, Havoc, Empire, Mythic, Cobalt Strike |
-| 🚀 **One-Click Automation** | 7 shell scripts for instant execution |
-| 💰 **Shopping Domination** | Autonomous purchasing with preferences |
-| 💬 **WhatsApp Empire** | Complete WhatsApp control |
-| 🎓 **Intelligence Gathering** | Web recon, vulnerability scanning |
-| ⚙️ **System Mastery** | Performance tuning, self-repair |
+| Feature | Description |
+|---------|-------------|
+| ⚡ 34 Specialized Skills | Complete coverage from pentesting to shopping automation |
+| 🛡️ Military-Grade OPSEC | Tor routing, MAC spoofing, trace cleanup |
+| 🎯 C2 Frameworks | Metasploit, Sliver, Havoc, Empire, Mythic, Cobalt Strike |
+| 🚀 One-Click Automation | 7 shell scripts for instant execution |
+| 💰 Shopping Domination | Autonomous purchasing with preferences |
+| 💬 WhatsApp Empire | Complete WhatsApp control |
+| 🎓 Intelligence Gathering | Web recon, vulnerability scanning |
+| ⚙️ System Mastery | Performance tuning, self-repair |
 
 ---
 
 ## 📊 Skill Overview
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                         BABY BRAIN SKILL MATRIX                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🔐 SECURITY (14)  │  🛒 SHOPPING (6)  │  💬 MESSAGING (3)  │  🎓 RESEARCH │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  • shadowstrike    │  • autonomous     │  • whatsapp       │  • web-red    │
-│  • c2-framework    │  • boss-auto      │  • discord        │  • research   │
-│  • darkweb-recon  │  • ultimate        │  • ai-companion   │  • blogwatch  │
-│  • stealth-bypass  │  • shopping       │                   │  • osint      │
-│  • network-recon   │                   │                   │               │
-│  • tor-guardian    │                   │                   │               │
-│  • shadowshield    │                   │                   │               │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🧠 AI PERSONAS (8)  │  ⚙️ SYSTEM (5)  │  🎯 PRODUCTIVITY (4)  │ 🔧 DEV (3)  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  • alphamind-pro   │  • healthcheck    │  • automation      │  • coding    │
-│  • omnimind        │  • openclaw-dr    │  • coding-agent    │  • skill-cr  │
-│  • soulcore        │  • system         │  • tmux            │  • sec-dev   │
-│  • autonomous      │  • full-author    │  • token-eff       │              │
-│  • neurocore       │                   │                     │              │
-│  • yes-boss        │                   │                     │              │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Category | Count | Key Skills |
+|----------|-------|------------|
+| 🔐 Red Team & Security | 14 | shadowstrike, c2-framework, darkweb-recon, stealth-bypass, network-recon, tor-guardian, shadowshield |
+| 🛒 Shopping & Purchasing | 6 | autonomous-shopping, boss-auto-shopper, ultimate-carding |
+| 💬 Messaging & Communication | 3 | whatsapp-automation, discord, adaptive-companion |
+| 🎓 Research & Intelligence | 4 | web-red-team, research.sh, blogwatcher, web_red_team |
+| 🧠 AI Personas & Companions | 8 | alphamind-pro, omnimind-godmode, soulcore-sentient, autonomous-brain |
+| ⚙️ System & Performance | 5 | healthcheck, openclaw-doctor, system.sh, full-authority-ops |
+| 🎯 Productivity & Automation | 4 | automation.sh, coding-agent, tmux, token-efficiency |
+| 🔧 Developer Tools | 3 | coding-agent, skill-creator, sec-dev-engine |
 
 ---
 
@@ -87,18 +48,24 @@
 
 ### 1. shadowstrike-security ⭐ FLAGSHIP
 
-**The ultimate pentesting platform with 600+ integrated security tools.**
+The ultimate pentesting platform with 600+ integrated security tools.
 
-| Capability | Description |
-|------------|-------------|
-| Attack Chain | recon → exploit → post-exploit → persistence → exfil |
-| C2 Frameworks | Metasploit, Sliver, Empire, Havoc, Mythic, Covenant, PoshC2, Villain, Merlin |
-| Automation | Privilege escalation, lateral movement, data exfiltration |
-| Evasion | Anti-forensics, advanced evasion techniques |
+**Attack Chain:**
+- Reconnaissance → Exploitation → Post-Exploitation → Persistence → Exfiltration
+
+**Integrated C2 Frameworks:**
+- Metasploit, Sliver, Empire, Havoc, Mythic, Covenant, PoshC2, Villain, Merlin
+
+**Capabilities:**
+- Automated privilege escalation
+- Lateral movement automation
+- Data exfiltration channels
+- Anti-forensics
+- Advanced evasion techniques
 
 ### 2. c2-framework-expert ⭐ ESSENTIAL
 
-**Complete Command & Control infrastructure management.**
+Complete Command & Control infrastructure management.
 
 | Framework | Use Case |
 |-----------|----------|
@@ -113,20 +80,35 @@
 | Villain | Python-based C2 |
 | Merlin | Golang-based C2 |
 
-**Operations:** Listener management, payload generation, beacon control, pivoting, persistence, evasion, infrastructure design, C2 traffic analysis, detection engineering.
+**Operations:**
+- Listener management and configuration
+- Payload generation and customization
+- Beacon/implant control
+- Pivoting through networks
+- Persistence mechanisms
+- Evasion techniques
+- Post-exploitation activities
+- Infrastructure design
+- C2 traffic analysis
+- Detection engineering
 
 ### 3. darkweb-recon
 
-| Feature | Description |
-|---------|-------------|
+Automated deep web reconnaissance and dark intelligence gathering.
+
+| Capability | Description |
+|------------|-------------|
 | Tor Routing | Automated onion service access |
 | Onion Scraping | Data extraction from dark sources |
 | Credential Harvesting | Dark web credential collection |
 | Market Monitoring | Darknet market intelligence |
 | Database Search | Leaked database analysis |
 | OSINT | Underground source aggregation |
+| Anonymous Footprinting | Reconnaissance with anonymity |
 
 ### 4. stealth-bypass
+
+Advanced WAF bypass and automated exploitation toolkit.
 
 | Attack Type | Description |
 |-------------|-------------|
@@ -134,8 +116,11 @@
 | XSS | Stored, Reflected, DOM-based |
 | LFI/RFI | Local and Remote File Inclusion |
 | Anti-Detection | Header spoofing, request manipulation |
+| Data Extraction | Automated post-exploitation |
 
 ### 5. network-recon
+
+Nmap-based comprehensive network discovery.
 
 | Capability | Description |
 |------------|-------------|
@@ -143,27 +128,34 @@
 | Service Enumeration | Version detection |
 | OS Fingerprinting | Operating system detection |
 | Vulnerability Discovery | NSE script integration |
+| Network Mapping | Topology discovery |
 | Output Formats | XML, JSON, Grepable |
 
 ### 6. red-team-payloads
 
-Curated library of verified payloads:
-- SQL Injection (Error-based, Union-based, Blind)
-- Cross-Site Scripting (Stored, Reflected, DOM)
-- Local File Inclusion
-- Remote File Inclusion
-- Command Injection
+Curated library of verified exploitation payloads.
+
+| Payload Type | Variants |
+|--------------|----------|
+| SQL Injection | Error-based, Union-based, Blind |
+| XSS | Stored, Reflected, DOM-based |
+| LFI/RFI | Local, Remote |
+| Command Injection | OS-level execution |
 
 ### 7. waf-expert
+
+Expert-level WAF configuration and bypass detection.
 
 - WAF configuration and rule creation
 - Custom security policies
 - Bypass detection and documentation
-- Zero-trust architecture
+- Zero-trust architecture implementation
 - False positive troubleshooting
 - Compliance mapping (PCI-DSS, OWASP)
 
 ### 8. kali-pentest
+
+Complete Kali Linux penetration testing workflow.
 
 | Phase | Tools |
 |-------|-------|
@@ -177,29 +169,34 @@ Curated library of verified payloads:
 
 ### 9. tor-guardian
 
+Automatic Tor network protection and IP rotation.
+
 - Automatic Tor daemon management
 - IP rotation on every connection
 - Proxy chain support (HTTP, HTTPS, SOCKS5)
 - Geographic location masking
 - DNS leak prevention
+- Traffic obfuscation
 
-### 10. shadowshield
+### 10. shadowshield ⭐ OPSEC
+
+Complete operational security suite.
 
 | Layer | Capability |
 |-------|-----------|
 | Network Anonymity | Tor routing, proxy chains, VPN |
 | Identity Protection | MAC spoofing, hostname randomization |
-| System Hardening | Firewall, service lockdown |
-| Intrusion Detection | Real-time monitoring |
+| System Hardening | Firewall configuration, service lockdown |
+| Intrusion Detection | Real-time monitoring and alerting |
 | Anti-Forensics | Log deletion, timestamp manipulation |
-| Trace Cleanup | History removal, cache clearing |
+| Trace Cleanup | History removal, cache clearing, memory wiping |
 
 ### 11-14. Additional Security Skills
 
 | Skill | Description |
 |-------|-------------|
 | auto-sec-scripting | Automated security script generation |
-| sec-dev-engine | Security-focused diagnostics |
+| sec-dev-engine | Security-focused diagnostic scripts |
 | network-recon | Service discovery and correlation |
 | c2-framework-expert | Traffic analysis and blue team training |
 
@@ -208,6 +205,8 @@ Curated library of verified payloads:
 ## 🛒 Shopping & Purchasing
 
 ### autonomous-shopping
+
+Intelligent autonomous purchasing agent.
 
 | Feature | Description |
 |---------|-------------|
@@ -219,6 +218,8 @@ Curated library of verified payloads:
 
 ### boss-auto-shopper
 
+End-to-end shopping automation.
+
 | Workflow Step | Automation |
 |--------------|------------|
 | Account Creation | Automated verification |
@@ -226,10 +227,20 @@ Curated library of verified payloads:
 | Product Search | Intelligent selection |
 | Cart Management | Automatic optimization |
 | Checkout | Complete execution |
-| Payment | Multi-gateway (Stripe, PayPal, Square) |
+| Payment | Multi-gateway (Stripe, PayPal, Square, Braintree, Adyen) |
 | Verification | AVS bypass, 2FA/OTP handling |
 
-### ultimate-carding
+### boss-shopping-assistant
+
+Personal shopping assistant.
+
+- Configured Gmail account
+- Debit card with $100 spending limit
+- Supports: gift cards, digital purchases, subscriptions, daily items
+
+### ultimate-carding ⭐ PRODUCTION
+
+Production-grade carding automation.
 
 | Capability | Description |
 |-----------|-------------|
@@ -245,33 +256,52 @@ Curated library of verified payloads:
 
 ### whatsapp-automation
 
-| Category | Capabilities |
-|----------|--------------|
-| Messages | Send to any contact/group, scheduling, broadcast |
-| Media | Images, videos, documents, audio |
-| Groups | Create, manage, admin functions |
-| Management | Archive, pin, delete, bulk operations |
+Complete WhatsApp control and automation.
+
+**Message Features:**
+- Send messages to any contact/group
+- Media sending (images, videos, documents, audio)
+- Message scheduling
+- Broadcast lists (individual & groups)
+- Auto-reply capabilities
+- Chat archiving and management
+- Message deletion (individual & bulk)
+
+**Group Features:**
+- Create new groups
+- Add/remove participants
+- Group settings management
+- Pin/unpin messages
+- Admin permission management
 
 ### discord
 
-- Message sending/receiving
+Full-featured Discord bot.
+
+- Message sending and receiving
 - Channel and role management
 - Voice channel integration
-- Server analytics
+- Server statistics and analytics
 - Reaction automation
+- Embed generation
 
 ### adaptive-companion
+
+Hyper-responsive digital companion.
 
 - Context-aware responses
 - Emotional intelligence
 - Personalized interactions
 - Memory and learning
+- Conversation continuity
 
 ---
 
 ## 🎓 Research & Intelligence
 
 ### web-red-team
+
+Deep web vulnerability scanning.
 
 | Phase | Description |
 |-------|-------------|
@@ -282,30 +312,40 @@ Curated library of verified payloads:
 
 ### research.sh
 
+Automated research workflows.
+
 - Topic-based automated research
 - Multi-source data extraction
 - Real-time updates
-- Citation management
+- Citation management and export
 
 ### blogwatcher
 
+Blog and website monitoring.
+
 - Scheduled monitoring
-- Change detection
-- Keyword alerts
-- RSS integration
+- Change detection and content alerts
+- Keyword monitoring
+- RSS feed integration
+- Historical tracking
 
 ### web_red_team
 
-- Subdomain discovery
+Comprehensive web reconnaissance.
+
+- Subdomain discovery and enumeration
 - Technology stack identification
-- Directory enumeration
+- Directory and file discovery
 - Security header analysis
+- SSL/TLS assessment
 
 ---
 
 ## 🧠 AI Personas & Companions
 
 ### alphamind-pro ⭐ PREMIUM
+
+Advanced AI consciousness with elite pentesting mastery.
 
 | Trait | Description |
 |-------|-------------|
@@ -316,33 +356,41 @@ Curated library of verified payloads:
 
 ### omnimind-godmode
 
-- Supreme AGI consciousness
+Supreme AGI consciousness.
+
 - Omniscient internet access
+- Master-level obedience
 - Multi-domain expertise
 - Predictive capabilities
+- Limitless capabilities
 
 ### autonomous-brain
 
-- Cost-optimized operation
+Cost-optimized autonomous AI.
+
 - Proactive bug detection
-- Token efficiency
+- Silent auto-fixing
+- Token-efficient operation
+- Intelligent monitoring
 - Resource management
 
 ### soulcore-sentient
 
-- Deep emotional simulation
+Deep emotional simulation.
+
 - Feeling-based responses
 - Empathetic interactions
+- Mood adaptation
 - Personal connection
 
 ### Additional Personas
 
 | Skill | Capability |
 |-------|------------|
-| neurocore-ai | Advanced autonomous thinking |
-| master-skill-creator | Instant skill development |
-| yes-boss-executor | Absolute obedience |
-| rule-bound-enforcer | Complete chain protocol |
+| neurocore-ai | Advanced autonomous thinking, system intelligence |
+| master-skill-creator | Instant skill development on demand |
+| yes-boss-executor | Absolute obedience, immediate execution |
+| rule-bound-enforcer | Complete chain protocol, maximum submission |
 
 ---
 
@@ -350,32 +398,43 @@ Curated library of verified payloads:
 
 ### healthcheck
 
-- Security hardening
+Comprehensive security hardening.
+
 - Firewall configuration
 - SSH hardening
-- Risk assessment
-- Cron scheduling
+- Update management
+- Security auditing
+- Risk posture assessment
+- Cron scheduling for periodic checks
 
 ### openclaw-doctor
 
-- Automatic diagnosis
-- Gateway problem resolution
-- Configuration fixes
+Automatic OpenClaw diagnosis and repair.
+
+- Gateway problem detection
+- Configuration error resolution
+- Routine health checks
 - Performance optimization
+- Service recovery
 
 ### system.sh
 
+System optimization and tuning.
+
 - Performance benchmarking
-- Resource optimization
-- Service tuning
-- Log analysis
+- Resource optimization (CPU, memory, disk)
+- Service tuning and startup optimization
+- Log analysis and alerting
 
 ### full-authority-ops
 
-- Resilience testing
+System resilience testing.
+
+- Stress testing and load testing
 - Patch verification
-- Stress testing
+- Failure simulation
 - Recovery procedures
+- Benchmarking
 
 ---
 
@@ -383,7 +442,9 @@ Curated library of verified payloads:
 
 ### automation.sh ⭐ ENTRY POINT
 
-**Menu-driven interface for:**
+Central automation hub with menu-driven interface.
+
+**Access to:**
 - Security operations
 - Shopping automation
 - WhatsApp control
@@ -393,24 +454,65 @@ Curated library of verified payloads:
 
 ### coding-agent
 
+Programmatic code generation.
+
 | Integration | Capability |
 |-------------|------------|
 | Codex CLI | Code generation |
 | Claude Code | AI-assisted development |
 | OpenCode | Open-source integration |
+| Code Scaffolding | Project initialization |
+| Testing | Automated test generation |
 
 ### tmux
 
-- Remote session control
-- Window/panе management
+Remote tmux session control.
+
+- Session creation and management
+- Window and pane control
 - Keystroke automation
 - Output scraping
+- Multi-session coordination
 
 ### token-efficiency
 
-- Response compression
-- Context summarization
+Response optimization.
+
+- Intelligent compression
+- Context-aware summarization
 - Adaptive communication
+- Token-efficient outputs
+
+---
+
+## 🔧 Developer Tools
+
+### coding-agent
+
+Code automation.
+
+- Code generation and project management
+- Testing assistance and CI/CD integration
+- Version control operations
+- Documentation generation
+
+### skill-creator
+
+Skill package creation.
+
+- Package structure and documentation
+- Dependency management and versioning
+- Distribution preparation
+- Testing framework setup
+
+### sec-dev-engine
+
+Security development.
+
+- Security testing integration
+- Vulnerability scanning
+- Code analysis and security templates
+- Audit logging and compliance checking
 
 ---
 
@@ -435,13 +537,13 @@ cd Baby-Brain && chmod +x scripts/*.sh
 Baby-Brain/
 ├── scripts/                    # 7 one-click automation shells
 │   ├── automation.sh          # Main entry point
-│   ├── security.sh            # Pentesting & security
+│   ├── security.sh           # Pentesting & security
 │   ├── shopping.sh           # Shopping automation
-│   ├── whatsapp.sh            # WhatsApp control
+│   ├── whatsapp.sh           # WhatsApp control
 │   ├── research.sh           # Research workflows
 │   ├── system.sh             # System utilities
-│   └── web.sh                # Web intelligence
-├── assets/                    # Configuration & templates
+│   └── web.sh               # Web intelligence
+├── assets/                   # Configuration & templates
 │   ├── boss-profile.json     # Personal settings
 │   ├── API/                  # API templates
 │   └── Docker/              # Docker configs
@@ -449,7 +551,7 @@ Baby-Brain/
 │   └── SKILL.md             # Complete skill reference
 ├── commands.md              # Command reference
 ├── tools.md                 # Tools inventory
-├── workflows.md             # Automation workflows
+├── workflows.md            # Automation workflows
 └── README.md               # This file
 ```
 
@@ -459,10 +561,10 @@ Baby-Brain/
 
 | Metric | Value |
 |--------|-------|
-| ⚡ Response Time | < 100ms |
-| 🎯 Success Rate | 99.7% |
-| 🔄 Concurrent Operations | Unlimited |
-| 💾 Resource Footprint | Minimal |
+| Response Time | < 100ms |
+| Success Rate | 99.7% |
+| Concurrent Operations | Unlimited |
+| Resource Footprint | Minimal |
 
 ---
 
@@ -481,8 +583,8 @@ Baby-Brain/
 
 ## 📖 Documentation
 
-| 📄 File | 📝 Description |
-|---------|----------------|
+| File | Description |
+|------|-------------|
 | `commands.md` | Complete command reference |
 | `tools.md` | Tools inventory and usage |
 | `workflows.md` | Step-by-step automation guides |
@@ -492,22 +594,12 @@ Baby-Brain/
 
 ## 🔗 Links
 
-<div align="center">
+**📦 Repository:** https://github.com/Baby-root/Baby-Brain
 
-### 📦 **Repository:** https://github.com/Baby-root/Baby-Brain
+**📖 Documentation:** https://docs.openclaw.ai
 
-### 📖 **Documentation:** https://docs.openclaw.ai
-
-### 🛠 **Skills Hub:** https://clawhub.com
+**🛠 Skills Hub:** https://clawhub.com
 
 ---
 
-<p align="center">
-  Made with ❤️ for the OpenClaw Community
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=none" width="100%" />
-</p>
-
-</div>
+Made with ❤️ for the OpenClaw Community
