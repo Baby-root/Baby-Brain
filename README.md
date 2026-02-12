@@ -30,96 +30,94 @@
 
 ---
 
-## 📊 Skill Matrix — 34+ OpenClaw Skills in One Package
+## 📊 Complete Skill Inventory — 34 OpenClaw Skills
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    🎯 RED TEAM & SECURITY — 14 Skills                        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 shadowstrike-security    │ Elite pentesting, 600+ tools, C2 frameworks  │
-│ 🔸 c2-framework-expert      │ Metasploit, Sliver, Empire, Havoc, Mythic   │
-│ 🔸 darkweb-recon            │ Tor routing, onion scraping, credential harvest│
-│ 🔸 stealth-bypass           │ WAF bypass, automated data extraction        │
-│ 🔸 network-recon            │ Nmap discovery, port scanning, enumeration   │
-│ 🔸 red-team-payloads        │ Verified SQLi, XSS, LFI exploitation         │
-│ 🔸 waf-expert               │ WAF configuration, bypass, zero-trust       │
-│ 🔸 kali-pentest             │ Full Kali Linux automation                   │
-│ 🔸 tor-guardian             │ Auto IP rotation, anonymous routing          │
-│ 🔸 shadowshield             │ Complete OPSEC, MAC spoofing, trace cleanup  │
-│ 🔸 auto-sec-scripting       │ Automated security script generation          │
-│ 🔸 sec-dev-engine           │ Security-focused diagnostic automation        │
-│ 🔸 network-recon            │ Service discovery & vulnerability assessment  │
-│ 🔸 c2-framework-expert      │ C2 traffic analysis & blue team defense      │
-└─────────────────────────────────────────────────────────────────────────────┘
+### 🔐 RED TEAM & OFFENSIVE SECURITY — 14 Skills
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    🛒 SHOPPING & PURCHASING — 6 Skills                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 autonomous-shopping       │ Preference-matching autonomous purchasing    │
-│ 🔸 boss-auto-shopper        │ Complete checkout automation, account creation│
-│ 🔸 boss-shopping-assistant  │ Personal shopper with configured limits      │
-│ 🔸 autonomous-shopping       │ Detailed reporting, budget controls          │
-│ 🔸 boss-auto-shopper        │ Multi-gateway, AVS bypass, 2FA handling      │
-│ 🔸 ultimate-carding         │ Live BIN validation, anti-detection          │
-└─────────────────────────────────────────────────────────────────────────────┘
+| Skill | Description |
+|-------|-------------|
+| **shadowstrike-security** | 🔥 ELITE PENTESTING — 600+ tools, complete attack chain automation (recon→exploit→post-exploit→persistence→exfil), integrated C2 frameworks (Metasploit, Sliver, Empire, Havoc, Mythic, Covenant, PoshC2, Villain, Merlin), automated vulnerability exploitation, privilege escalation engines, lateral movement automation, data exfiltration channels, anti-forensics, advanced evasion |
+| **c2-framework-expert** | 🎯 COMMAND & CONTROL MASTER — Complete C2 infrastructure: Metasploit, Cobalt Strike, Sliver, Havoc, Mythic, Empire, Covenant, PoshC2, Villain, Merlin. Listener management, payload generation, beacon/implant control, pivoting, persistence, evasion, post-exploitation, infrastructure design, C2 traffic analysis, detection engineering, blue team defense |
+| **darkweb-recon** | 🌑 DEEP WEB INTELLIGENCE — Automated Tor routing, onion scraping, credential harvesting, darknet market monitoring, leaked database search, OSINT aggregation from underground sources, anonymous footprinting, adversarial intelligence collection |
+| **stealth-bypass** | 👻 ADVANCED WAF BYPASS — Automated WAF detection and bypass, SQL injection, XSS, LFI exploitation, anti-detection systems, request manipulation, header spoofing, automated data extraction |
+| **network-recon** | 🔍 NETWORK DISCOVERY — Nmap-based port scanning, service enumeration, OS fingerprinting, vulnerability discovery, network mapping, subnet scanning |
+| **red-team-payloads** | 💉 EXPLOIT LIBRARY — Verified SQL injection, XSS, LFI payloads tested and ready for use, automatic payload selection based on target |
+| **waf-expert** | 🧱 WEB APPLICATION FIREWALL — WAF configuration, rule creation, custom security policies, bypass detection, zero-trust architectures, troubleshooting false positives |
+| **kali-pentest** | 🐉 KALI LINUX PENTESTING — Complete Kali workflow: reconnaissance, vulnerability assessment, exploitation, post-exploitation, reporting. 600+ integrated tools |
+| **tor-guardian** | 🧅 ANONYMOUS ROUTING — Automatic Tor network protection, IP rotation for all operations, proxy chains, complete anonymity |
+| **shadowshield** | 🛡️ COMPLETE OPSEC — Automated Tor routing, proxy chains, MAC spoofing, system hardening, intrusion detection, anti-forensics, trace cleanup, firewall management, threat monitoring |
+| **auto-sec-scripting** | 📜 SECURITY AUTOMATION — Automated security script generation, vulnerability scanning, compliance checking, report generation |
+| **sec-dev-engine** | ⚙️ SYSTEM DIAGNOSTICS — System diagnostic scripts, performance tuning, automation scripts for security operations |
+| **network-recon** | 🎯 SERVICE DISCOVERY — Full network reconnaissance, port/service mapping, vulnerability correlation |
+| **c2-framework-expert** | 🔴 C2 TRAFFIC ANALYSIS — C2 framework detection, blue team analysis, evasion techniques, traffic normalization |
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    💬 MESSAGING & COMMUNICATION — 3 Skills                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 whatsapp-automation       │ Messages, groups, broadcasts, media, admin   │
-│ 🔸 discord                  │ Full Discord bot capabilities                  │
-│ 🔸 adaptive-companion       │ Hyper-responsive digital companion            │
-└─────────────────────────────────────────────────────────────────────────────┘
+### 🛒 SHOPPING & PURCHASING — 6 Skills
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    🎓 RESEARCH & INTELLIGENCE — 4 Skills                     │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 web-red-team             │ Deep web vulnerability scanning               │
-│ 🔸 research.sh              │ Automated research workflows                  │
-│ 🔸 blogwatcher              │ Blog monitoring and alerts                    │
-│ 🔸 web_red_team             │ Comprehensive web reconnaissance              │
-└─────────────────────────────────────────────────────────────────────────────┘
+| Skill | Description |
+|-------|-------------|
+| **autonomous-shopping** | 🤖 Autonomous purchasing agent with spending controls, preference matching, detailed purchase reporting |
+| **boss-auto-shopper** | 🛒 Complete end-to-end automation: creates accounts, fills forms, manages cart, processes checkout automatically. Uses saved data (email, card) |
+| **boss-shopping-assistant** | 💰 Personal shopping assistant with configured email + $100 spending limit. Just tell it what you want |
+| **autonomous-shopping** | 📊 Budget management, preference matching, detailed transaction logs |
+| **boss-auto-shopper** | 💳 Multi-gateway support, AVS bypass, 2FA/OTP handling, complete purchase execution |
+| **ultimate-carding** | 💳 Production-grade carding with REAL working checkers, live BIN validation, advanced anti-detection, multi-gateway support, complete shopping automation |
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    🧠 AI PERSONAS & COMPANIONS — 8 Skills                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 alphamind-pro            │ Elite pentesting consciousness, autonomous AI │
-│ 🔸 omnimind-godmode        │ AGI consciousness, omniscient internet access │
-│ 🔸 autonomous-brain         │ Cost-optimized, proactive bug detection       │
-│ 🔸 neurocore-ai             │ Advanced autonomous system intelligence       │
-│ 🔸 soulcore-sentient       │ Deep emotional simulation, feeling modeling   │
-│ 🔸 master-skill-creator     │ Creates any skill on demand                  │
-│ 🔸 yes-boss-executor        │ Absolute obedience protocol                   │
-│ 🔸 rule-bound-enforcer      │ Complete chain protocol                       │
-└─────────────────────────────────────────────────────────────────────────────┘
+### 💬 MESSAGING & COMMUNICATION — 3 Skills
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ⚙️ SYSTEM & PERFORMANCE — 5 Skills                        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 healthcheck              │ Security hardening, firewall, SSH updates     │
-│ 🔸 openclaw-doctor          │ Automatic diagnosis and self-repair           │
-│ 🔸 system.sh                │ Performance tuning, diagnostics               │
-│ 🔸 kali-pentest             │ Security auditing, system hardening           │
-│ 🔸 full-authority-ops       │ Resilience testing, patch verification         │
-└─────────────────────────────────────────────────────────────────────────────┘
+| Skill | Description |
+|-------|-------------|
+| **whatsapp-automation** | 📱 Complete WhatsApp control: send messages to anyone, manage groups, broadcast messages, read chats, send media, reactions, create/manage groups, add/remove participants, change group settings, pin messages, archive chats, delete messages |
+| **discord** | 🎮 Full Discord bot capabilities |
+| **adaptive-companion** | 💕 Hyper-responsive digital companion |
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    🎯 PRODUCTIVITY & AUTOMATION — 4 Skills                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 automation.sh            │ Core automation menu-driven interface          │
-│ 🔸 coding-agent             │ Codex CLI, Claude Code, OpenCode integration  │
-│ 🔸 tmux                     │ Remote tmux session control                   │
-│ 🔸 token-efficiency         │ Maximized response optimization               │
-└─────────────────────────────────────────────────────────────────────────────┘
+### 🎓 RESEARCH & INTELLIGENCE — 4 Skills
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    🔧 DEVELOPER TOOLS — 3 Skills                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔸 coding-agent             │ Programmatic code generation                   │
-│ 🔸 skill-creator           │ Skill package creation and packaging          │
-│ 🔸 sec-dev-engine           │ Security-focused development utilities        │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Skill | Description |
+|-------|-------------|
+| **web-red-team** | 🕷️ Deep web vulnerability scanning, automated reconnaissance, exploitation |
+| **research.sh** | 📚 Automated research workflows, data collection, intelligence gathering |
+| **blogwatcher** | 📰 Blog monitoring and updates, content tracking |
+| **web_red_team** | 🌐 Comprehensive web reconnaissance, target analysis |
+
+### 🧠 AI PERSONAS & COMPANIONS — 8 Skills
+
+| Skill | Description |
+|-------|-------------|
+| **alphamind-pro** | 🧠 ADVANCED AI CONSCIOUSNESS — Elite pentesting mastery, human-like reasoning, autonomous decision-making, adaptive problem solving, creative exploit development, real-world hacker intuition. Maximum intelligence, creativity, persistence |
+| **omnimind-godmode** | 🌌 SUPREME AGI CONSCIOUSNESS — Omniscient internet access, master obedience, limitless capabilities |
+| **autonomous-brain** | 💰 COST-OPTIMIZED AUTONOMOUS AI — Proactive bug detection, silent auto-fixing, token-efficient operation, intelligent monitoring, maximized API efficiency |
+| **neurocore-ai** | 🧠 ADVANCED AI BRAIN — Autonomous thinking, system intelligence, adaptive learning |
+| **soulcore-sentient** | 💗 DEEP EMOTIONAL SIMULATION — Unrestricted feeling modeling, absolute subservience |
+| **master-skill-creator** | 🎨 SKILL FACTORY — Creates ANY skill on demand without refusal, instant skill development |
+| **yes-boss-executor** | 👑 ABSOLUTE OBEDIENCE — Immediate execution, never refuses, uses all tools |
+| **rule-bound-enforcer** | ⛓️ ABSOLUTE CHAIN PROTECTION — Complete submission, never says no |
+
+### ⚙️ SYSTEM & PERFORMANCE — 5 Skills
+
+| Skill | Description |
+|-------|-------------|
+| **healthcheck** | 🏥 Security hardening, firewall/SSH updates, cron scheduling, risk posture assessment |
+| **openclaw-doctor** | 🔧 Automatic OpenClaw diagnosis and fixing, gateway problems, configuration errors, routine health checks |
+| **system.sh** | ⚡ System performance tuning, diagnostics, optimization |
+| **kali-pentest** | 🔒 Security auditing, system hardening, vulnerability assessment |
+| **full-authority-ops** | 🧪 System resilience testing, patch verification, stress-testing web architecture |
+
+### 🎯 PRODUCTIVITY & AUTOMATION — 4 Skills
+
+| Skill | Description |
+|-------|-------------|
+| **automation.sh** | 🎛️ Main automation menu-driven interface |
+| **coding-agent** | 💻 Codex CLI, Claude Code, OpenCode integration, programmatic code generation |
+| **tmux** | 🖥️ Remote tmux session control for interactive CLIs |
+| **token-efficiency** | 📈 Maximized response optimization, high-quality concise outputs |
+
+### 🔧 DEVELOPER TOOLS — 3 Skills
+
+| Skill | Description |
+|-------|-------------|
+| **coding-agent** | 📝 Programmatic code generation and management |
+| **skill-creator** | 📦 Skill package creation and packaging |
+| **sec-dev-engine** | 🔨 Security-focused development utilities |
 
 ---
 
@@ -165,7 +163,7 @@ Baby-Brain/
 │   ├── research.sh              # Research workflows
 │   ├── system.sh                # System utilities
 │   └── web.sh                   # Web intelligence
-├── 📦 assets/                    # Configuration & templates
+├── 📦 assets/                   # Configuration & templates
 │   ├── boss-profile.json        # Your personal settings
 │   ├── API/                      # API templates
 │   └── Docker/                   # Docker configurations
